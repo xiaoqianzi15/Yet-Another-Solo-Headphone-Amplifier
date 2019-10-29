@@ -1,6 +1,8 @@
 # Yet-Another-Solo-Headphone-Amplifier
 SMD based solo headphone amplifier for fun
 
+Send the Gerber file to Manufacture if you like it 
+
 PCB looks like this. I send it to Manufacture still waitting
 
 
